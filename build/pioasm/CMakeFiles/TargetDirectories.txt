@@ -1,0 +1,3 @@
+/home/dan/raspberry-pi-pico/raytracer/build/pioasm/CMakeFiles/rebuild_cache.dir
+/home/dan/raspberry-pi-pico/raytracer/build/pioasm/CMakeFiles/edit_cache.dir
+/home/dan/raspberry-pi-pico/raytracer/build/pioasm/CMakeFiles/pioasm.dir
